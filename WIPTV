@@ -51,6 +51,9 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1,Band TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist_720p.m3u8
 
+#EXTINF:-1,Band News
+http://super-cdn.link/bandnews/index.m3u8
+
 #EXTINF:-1,Band Sports
 http://tv.fazoeli.co.za/m3u8/bandsports.m3u8
 
@@ -240,6 +243,9 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/117
 #EXTINF:-1,Gloob
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/2888
 
+#EXTINF:-1,GNT
+http://super-cdn.link/gnt/index.m3u8
+
 #EXTINF:-1,Grjngo Brasil
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
@@ -303,8 +309,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea
 #EXTINF:-1,Malhacao 24H
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
-#EXTINF:-1,Masterchef 24H
+#EXTINF:-1,MasterChef 24H
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
+
+#EXTINF:-1,MasterChef Brasil
+https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
 
 #EXTINF:-1,MAV TV
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
@@ -315,14 +324,26 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/130
 #EXTINF:-1,Mixify TV
 https://stream.gia.tv/giatvplayout7/giatv-208696/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1,MTV Classic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9dc1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,MTV Rocks
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2e8fedb23c000859345e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1,Multishow
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/128
+
+#EXTINF:-1,Multishow [2]
+http://super-cdn.link/multishow/index.m3u8
 
 #EXTINF:-1,MusicBox
 http://tv.mapfibra.com.br:8555/live/1438/123456/257.m3u8
 
 #EXTINF:-1,My Time Movie Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
+
+#EXTINF:-1,NatGeo
+https://super-cdn.link/nationalgeographic/index.m3u8
 
 #EXTINF:-1,NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -525,6 +546,9 @@ https://super-cdn.link/sportv3/index.m3u8
 #EXTINF:-1,Star Channel
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/158
 
+#EXTINF:-1,TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
 #EXTINF:-1,Telecine Action
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/154
 
@@ -545,6 +569,9 @@ http://fzcdn.vood.top/hls/731_.m3u8
 
 #EXTINF:-1,TNT [2]
 http://fzcdn.vood.top:80/hls/731_.m3u8
+
+#EXTINF:-1,TNT Novelas
+https://super-cdn.link/tntnovelas/index.m3u8
 
 #EXTINF:-1,TNT Series
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
