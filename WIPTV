@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,24 Kitchen
+http://176.65.146.108:8022/play/a06q/index.m3u8
+
 #EXTINF:-1,40 Graus TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 
@@ -38,6 +41,15 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
 #EXTINF:-1,AXN
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/124
+
+#EXTINF:-1,AXN [Portugal]
+http://176.65.146.108:8022/play/a07n/index.m3u8
+
+#EXTINF:-1,AXN Movies
+http://176.65.146.108:8022/play/a06l/index.m3u8
+
+#EXTINF:-1,AXN White
+http://176.65.146.108:8022/play/a06m/index.m3u8
 
 #EXTINF:-1,Band Goias
 https://live-stream.gsnoticias.net.br/live/live-goiania.flv
@@ -92,6 +104,9 @@ http://tv.mapfibra.com.br:8555/live/1438/123456/25.m3u8
 
 #EXTINF:-1,Cartoon Network
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/97
+
+#EXTINF:-1,Casa e Cozinha
+http://176.65.146.108:8022/play/a071/index.m3u8
 
 #EXTINF:-1,CaTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
@@ -204,6 +219,9 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1,GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1336076318.m3u8
 
+#EXTINF:-1,Globo Alagoas
+http://15.235.15.230:14450/
+
 #EXTINF:-1,Globo Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
@@ -246,6 +264,9 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/117
 #EXTINF:-1,Gloob
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/2888
 
+#EXTINF:-1,Gloob [2]
+https://stream1.freetv.fun/gloob-1.ctv
+
 #EXTINF:-1,GNT
 http://super-cdn.link/gnt/index.m3u8
 
@@ -278,6 +299,9 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/164
 
 #EXTINF:-1,HBO Xtreme
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/163
+
+#EXTINF:-1,Hollywood
+http://176.65.146.108:8022/play/a061/index.m3u8
 
 #EXTINF:-1,Homeful
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
@@ -347,6 +371,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-s
 
 #EXTINF:-1,NatGeo
 https://super-cdn.link/nationalgeographic/index.m3u8
+
+#EXTINF:-1,NatGeo Portugal
+http://176.65.146.108:8022/play/a07l/index.m3u8
+
+#EXTINF:-1,National Geographic Wild
+http://176.65.146.108:8022/play/a06z/index.m3u8
 
 #EXTINF:-1,NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -468,6 +498,15 @@ https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
 #EXTINF:-1,Roxi 90s
 https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
 
+#EXTINF:-1,RTP 1
+http://176.65.146.108:8022/play/a057/index.m3u8
+
+#EXTINF:-1,RTP 2
+http://176.65.146.108:8022/play/a058/index.m3u8
+
+#EXTINF:-1,RTP 3
+http://176.65.146.108:8022/play/a05a/index.m3u8
+
 #EXTINF:-1,Run:Time Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
@@ -540,6 +579,21 @@ http://fzcdn.vood.top:80/hls/705_.m3u8
 #EXTINF:-1,Spark TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 
+#EXTINF:-1,SPORT*TV 1
+http://176.65.146.108:8022/play/a06h/index.m3u8
+
+#EXTINF:-1,SPORT*TV 2
+http://176.65.146.108:8022/play/a06i/index.m3u8
+
+#EXTINF:-1,SPORT*TV 3
+http://176.65.146.108:8022/play/a06j/index.m3u8
+
+#EXTINF:-1,SPORT*TV 4
+http://176.65.146.108:8022/play/a05z/index.m3u8
+
+#EXTINF:-1,SPORT*TV 5
+http://176.65.146.108:8022/play/a06f/index.m3u8
+
 #EXTINF:-1,Sportv
 https://super-cdn.link/sportv/index.m3u8
 
@@ -551,6 +605,21 @@ https://super-cdn.link/sportv3/index.m3u8
 
 #EXTINF:-1,Star Channel
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/158
+
+#EXTINF:-1,Star Channel Portugal
+http://176.65.146.108:8022/play/a07m/index.m3u8
+
+#EXTINF:-1,Star Comedy
+http://176.65.146.108:8022/play/a08c/index.m3u8
+
+#EXTINF:-1,Star Crime
+http://176.65.146.108:8022/play/a06p/index.m3u8
+
+#EXTINF:-1,Star Life
+http://176.65.146.108:8022/play/a06o/index.m3u8
+
+#EXTINF:-1,Star Movies
+http://176.65.146.108:8022/play/a07r/index.m3u8
 
 #EXTINF:-1,TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
@@ -602,6 +671,18 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1,TV Camara [2]
 http://tv.mapfibra.com.br:8555/live/1438/123456/136.m3u8
+
+#EXTINF:-1,TV Cine Action
+http://176.65.146.108:8022/play/a079/index.m3u8
+
+#EXTINF:-1,TV Cine Edition
+http://176.65.146.108:8022/play/a06x/index.m3u8
+
+#EXTINF:-1,TV Cine Emotion
+http://176.65.146.108:8022/play/a06y/index.m3u8
+
+#EXTINF:-1,TV Cine Top
+http://176.65.146.108:8022/play/a078/index.m3u8
 
 #EXTINF:-1,TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
