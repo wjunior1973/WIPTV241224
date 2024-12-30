@@ -114,6 +114,9 @@ https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 #EXTINF:-1,COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
+#EXTINF:-1,Comedy Central
+http://hzcdn.vood.top:80/hls/685_.m3u8
+
 #EXTINF:-1,Cultne.tv
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
@@ -297,7 +300,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea
 #EXTINF:-1,Malhacao 24H
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
-#EXTINF:-1,MasterChef 24H
+#EXTINF:-1,MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 
 #EXTINF:-1,MasterChef Brasil
@@ -329,6 +332,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-s
 
 #EXTINF:-1,NatGeo
 https://super-cdn.link/nationalgeographic/index.m3u8
+
+#EXTINF:-1,NBT
+https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
 
 #EXTINF:-1,NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -392,6 +398,9 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
 
 #EXTINF:-1,Record
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
+
+#EXTINF:-1,Record RJ
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
 
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
@@ -504,6 +513,9 @@ https://super-cdn.link/sportv3/index.m3u8
 #EXTINF:-1,Star Channel
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/158
 
+#EXTINF:-1,Studio Universal
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/157
+
 #EXTINF:-1,TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
@@ -525,9 +537,6 @@ http://15.235.50.113:14012/TelecineTouch
 #EXTINF:-1,TNT
 http://fzcdn.vood.top/hls/731_.m3u8
 
-#EXTINF:-1,TNT [2]
-http://fzcdn.vood.top:80/hls/731_.m3u8
-
 #EXTINF:-1,TNT Novelas
 https://super-cdn.link/tntnovelas/index.m3u8
 
@@ -542,6 +551,9 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8
 
 #EXTINF:-1,Trace Brazuca
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+
+#EXTINF:-1,TruTV
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/148
 
 #EXTINF:-1,TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
