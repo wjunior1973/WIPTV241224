@@ -55,7 +55,7 @@ http://176.65.146.108:8022/play/a06m/index.m3u8
 https://live-stream.gsnoticias.net.br/live/live-goiania.flv
 
 #EXTINF:-1,Band Minas
-http://tv.mapfibra.com.br:8555/live/1427/123456/19.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/19.m3u8
 
 #EXTINF:-1,Band Nordeste
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/26
@@ -82,7 +82,7 @@ https://super-cdn.link/bis/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1,BoxKids TV
-http://tv.mapfibra.com.br:8555/live/1427/123456/259.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/259.m3u8
 
 #EXTINF:-1,BRSuper TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
@@ -91,7 +91,7 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
 
 #EXTINF:-1,Canal do Boi
-http://tv.mapfibra.com.br:8555/live/1427/123456/167.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/167.m3u8
 
 #EXTINF:-1,Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
@@ -100,7 +100,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
 
 #EXTINF:-1,Cancao Nova
-http://tv.mapfibra.com.br:8555/live/1427/123456/25.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/25.m3u8
 
 #EXTINF:-1,Cartoon Network
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/97
@@ -118,13 +118,13 @@ https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
 #EXTINF:-1,Chaves & Chapolin
-http://tv.mapfibra.com.br:8555/live/1427/123456/159.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/159.m3u8
 
 #EXTINF:-1,Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
 
 #EXTINF:-1,CineBrasil TV
-http://tv.mapfibra.com.br:8555/live/1427/123456/243.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/243.m3u8
 
 #EXTINF:-1,Cinemonde
 https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
@@ -151,7 +151,7 @@ https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
 #EXTINF:-1,Cultura
-http://tv.mapfibra.com.br:8555/live/1427/123456/230.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/230.m3u8
 
 #EXTINF:-1,Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
@@ -208,7 +208,7 @@ https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 
 #EXTINF:-1,Futura
-http://tv.mapfibra.com.br:8555/live/1427/123456/67.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/67.m3u8
 
 #EXTINF:-1,GE Globo Esporte
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
@@ -316,7 +316,7 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
 
 #EXTINF:-1,Jovem Pan News [2]
-http://tv.mapfibra.com.br:8555/live/1427/123456/161.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/161.m3u8
 
 #EXTINF:-1,Kiss TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
@@ -364,7 +364,7 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/128
 http://super-cdn.link/multishow/index.m3u8
 
 #EXTINF:-1,MusicBox
-http://tv.mapfibra.com.br:8555/live/1427/123456/257.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/257.m3u8
 
 #EXTINF:-1,My Time Movie Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
@@ -388,7 +388,7 @@ https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 
 #EXTINF:-1,Novo Tempo
-http://tv.mapfibra.com.br:8555/live/1427/123456/149.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/149.m3u8
 
 #EXTINF:-1,NOW! 80s
 https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
@@ -409,10 +409,10 @@ http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 
 #EXTINF:-1,Playpoca Filmes
-http://tv.mapfibra.com.br:8555/live/1427/123456/238.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/238.m3u8
 
 #EXTINF:-1,Playpoca Series
-http://tv.mapfibra.com.br:8555/live/1427/123456/239.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/239.m3u8
 
 #EXTINF:-1,Pop TV
 https://pop.tv.br/hls/test_src.m3u8
@@ -439,7 +439,7 @@ https://super-cdn.link/premiere6/index.m3u8
 https://super-cdn.link/premiere7/index.m3u8
 
 #EXTINF:-1,PrimeBox
-http://tv.mapfibra.com.br:8555/live/1427/123456/256.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/256.m3u8
 
 #EXTINF:-1,Primer TV
 http://177.74.174.57:8080/hls/primertv.m3u8
@@ -451,7 +451,7 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
 
 #EXTINF:-1,Record Minas
-http://tv.mapfibra.com.br:8555/live/1427/123456/96.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/96.m3u8
 
 #EXTINF:-1,Record PE
 http://176.65.146.108:8022/play/a05u/index.m3u8
@@ -460,7 +460,7 @@ http://176.65.146.108:8022/play/a05u/index.m3u8
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1,Record News [2]
-http://tv.mapfibra.com.br:8555/live/1427/123456/97.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/97.m3u8
 
 #EXTINF:-1,Rede Familia
 https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?ROGERIOTORRES
@@ -469,19 +469,19 @@ https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?ROGERIOTORRES
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
 #EXTINF:-1,Rede Seculo 21 [2]
-http://tv.mapfibra.com.br:8555/live/1427/123456/106.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/106.m3u8
 
 #EXTINF:-1,Rede TV!
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index.m3u8
 
 #EXTINF:-1,Rede TV! Minas
-http://tv.mapfibra.com.br:8555/live/1427/123456/102.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/102.m3u8
 
 #EXTINF:-1,Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1,Rede Vida
-http://tv.mapfibra.com.br:8555/live/1427/123456/103.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/103.m3u8
 
 #EXTINF:-1,Resumo da Opera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
@@ -550,7 +550,7 @@ https://www.youtube.com/channel/UCsRfBAspa72ExrsN347W2xg/live
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
 #EXTINF:-1,Series Classicas
-http://tv.mapfibra.com.br:8555/live/1427/123456/160.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/160.m3u8
 
 #EXTINF:-1,Sol Brasil TV
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
@@ -664,13 +664,13 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1,TV Aparecida [2]
-http://tv.mapfibra.com.br:8555/live/1427/123456/131.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/131.m3u8
 
 #EXTINF:-1,TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1,TV Camara [2]
-http://tv.mapfibra.com.br:8555/live/1427/123456/136.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/136.m3u8
 
 #EXTINF:-1,TV Cine Action
 http://176.65.146.108:8022/play/a079/index.m3u8
@@ -697,19 +697,19 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist.m3u8
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 
 #EXTINF:-1,TV Justica
-http://tv.mapfibra.com.br:8555/live/1427/123456/138.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/138.m3u8
 
 #EXTINF:-1,TV Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF:-1,TV Ra-Tim-Bum
-http://tv.mapfibra.com.br:8555/live/1427/123456/84.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/84.m3u8
 
 #EXTINF:-1,TV Recon
 https://acesso.ecast.site:3862/hybrid/play.m3u8
 
 #EXTINF:-1,TV Senado
-http://tv.mapfibra.com.br:8555/live/1427/123456/139.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/139.m3u8
 
 #EXTINF:-1,TV Zyn
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
@@ -760,7 +760,7 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 https://cr7v.short.gy/live3/v/Index.m3u8
 
 #EXTINF:-1,Vivax TV
-http://tv.mapfibra.com.br:8555/live/1427/123456/245.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/245.m3u8
 
 #EXTINF:-1,Warner
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1880
@@ -769,7 +769,7 @@ http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1880
 https://acesso.ecast.site:3142/hybrid/play.m3u8
 
 #EXTINF:-1,Woohoo
-http://tv.mapfibra.com.br:8555/live/1427/123456/141.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/141.m3u8
 
 #EXTINF:-1,WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/chunklist_w1776465175.m3u8
@@ -781,4 +781,4 @@ https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1,Zoomoo Kids
-http://tv.mapfibra.com.br:8555/live/1427/123456/162.m3u8
+http://tv.mapfibra.com.br:8555/live/1492/123456/162.m3u8
