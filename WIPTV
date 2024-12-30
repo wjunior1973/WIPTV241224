@@ -415,6 +415,9 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
 
 #EXTINF:-1,Record
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
+
+#EXTINF:-1,Record [2]
 http://176.65.146.108:8022/play/a05u/index.m3u8
 
 #EXTINF:-1,Record News
