@@ -210,11 +210,17 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/129
 #EXTINF:-1,Globo RJ
 http://tv.fazoeli.co.za/m3u8/globorj.m3u8
 
+#EXTINF:-1,Globo RJ [2]
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/136
+
 #EXTINF:-1,Globo RPC Curitiba
 http://15.235.15.230:14487/
 
 #EXTINF:-1,Globo SP
 http://tv.fazoeli.co.za/m3u8/globosp.m3u8
+
+#EXTINF:-1,Globo SP [2]
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/10
 
 #EXTINF:-1,Globo TV Asa Branca
 http://15.235.15.230:14492
@@ -674,6 +680,9 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 #EXTINF:-1,Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:-1,USA Network
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
 
 #EXTINF:-1,VClassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w271212718.m3u8
