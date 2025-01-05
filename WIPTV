@@ -534,6 +534,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1,TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
+#EXTINF:-1,TV Diario
+https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
+
 #EXTINF:-1,TV Futuro
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
