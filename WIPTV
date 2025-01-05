@@ -39,9 +39,6 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1,AXN
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/124
 
-#EXTINF:-1,Band Goias
-https://live-stream.gsnoticias.net.br/live/live-goiania.flv
-
 #EXTINF:-1,Band Nordeste
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/26
 
@@ -77,9 +74,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
 #EXTINF:-1,Canal UOL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
-
-#EXTINF:-1,Cartoon Network
-http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/97
 
 #EXTINF:-1,CaTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
@@ -230,9 +224,6 @@ http://15.235.15.230:14512
 
 #EXTINF:-1,Globo News
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/117
-
-#EXTINF:-1,Gloob
-http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/2888
 
 #EXTINF:-1,Gloob [2]
 https://stream1.freetv.fun/gloob-1.ctv
@@ -423,15 +414,6 @@ https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 #EXTINF:-1,RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 
-#EXTINF:-1,Roxi 00s
-https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
-
-#EXTINF:-1,Roxi 80s
-https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
-
-#EXTINF:-1,Roxi 90s
-https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
-
 #EXTINF:-1,Run:Time Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
@@ -462,14 +444,8 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
 #EXTINF:-1,SBT Bahia
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?ManoTV
 
-#EXTINF:-1,SBT Internacional
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
-
 #EXTINF:-1,SBT RJ
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/119
-
-#EXTINF:-1,SBT RJ [Youtube]
-https://www.youtube.com/channel/UCsRfBAspa72ExrsN347W2xg/live
 
 #EXTINF:-1,SBT TV Guajara
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
@@ -516,9 +492,6 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/158
 #EXTINF:-1,Studio Universal
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/157
 
-#EXTINF:-1,TCM 10
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
-
 #EXTINF:-1,Telecine Action
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/154
 
@@ -539,9 +512,6 @@ http://fzcdn.vood.top/hls/731_.m3u8
 
 #EXTINF:-1,TNT Novelas
 https://super-cdn.link/tntnovelas/index.m3u8
-
-#EXTINF:-1,TNT Series
-http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
 
 #EXTINF:-1,Top Mix Filmes
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8
@@ -629,9 +599,6 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 #EXTINF:-1,Viva
 https://cr7v.short.gy/live3/v/Index.m3u8
-
-#EXTINF:-1,Warner
-http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1880
 
 #EXTINF:-1,WisePlay TV
 https://acesso.ecast.site:3142/hybrid/play.m3u8
