@@ -168,6 +168,9 @@ https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
 #EXTINF:-1,Filmrise Series
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 
+#EXTINF:-1,Futura
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/243
+
 #EXTINF:-1,GE Globo Esporte
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
