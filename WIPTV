@@ -5,34 +5,16 @@
 #######################
 
 #EXTINF:-1 group-title="TV ABERTA",Band
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/339149.ts
-
-#EXTINF:-1 group-title="TV ABERTA",Band [2]
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/338605.ts
-
-#EXTINF:-1 group-title="TV ABERTA",Band [3]
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/26
 
-#EXTINF:-1 group-title="TV ABERTA",Band [4]
+#EXTINF:-1 group-title="TV ABERTA",Band [2]
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/339487.ts
-
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau [2]
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/339488.ts
-
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau [3]
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/129
 
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Florianopolis
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/339484.ts
-
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Florianopolis [2]
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/339485.ts
-
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC TV Joinville
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/339491.ts
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau [2]
+http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-m3noAmGBE3/uBv3qQA2xj/515.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ
 http://tv.fazoeli.co.za/m3u8/globorj.m3u8
@@ -45,6 +27,9 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
 
 #EXTINF:-1 group-title="TV ABERTA",Record RJ
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/999
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index.m3u8
@@ -63,16 +48,13 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/119
 ###########################
 
 #EXTINF:-1 group-title="FILMES/SERIES",A&E
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/1256.ts
+http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-m3noAmGBE3/uBv3qQA2xj/225.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/921.ts
-
-#EXTINF:-1 group-title="FILMES/SERIES",DarkFlix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/233
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/168
@@ -106,6 +88,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 
 #EXTINF:-1 group-title="FILMES/SERIES",Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Os Simpsons 24H
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/710
 
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount Network
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
@@ -158,9 +143,6 @@ http://fzcdn.vood.top/hls/731_.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Novelas
 https://super-cdn.link/tntnovelas/index.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
-http://dzcdn.vood.top/hls/742_.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
@@ -180,6 +162,12 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/146
 ###### VARIEDADES ######
 ########################
 
+#EXTINF:-1 group-title="VARIEDADES",BBB Cam 1
+https://cr7v.short.gy/ManoTVfree/BBB1/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",BBB Cam 2
+https://cr7v.short.gy/ManoTVfree/BBB2/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",BIS
 https://super-cdn.link/bis/index.m3u8
 
@@ -192,8 +180,14 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/7
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/140
 
-#EXTINF:-1 group-title="VARIEDADES",Discovery Kids
-http://15.235.50.115:14561/DiscoveryKids
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/71
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/73
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/75
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
@@ -259,9 +253,6 @@ http://super-cdn.link/bandnews/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",BM&C News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="NOTICIAS",Canal UOL
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
@@ -271,7 +262,7 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/117
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Programa 4 Por 4 24H
+#EXTINF:-1 group-title="NOTICIAS",Programa 4 Por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
@@ -288,7 +279,7 @@ http://tv.fazoeli.co.za/m3u8/bandsports.m3u8
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Combate
-http://u1px.shop:80/wjunior1973@gmail.com/eu10fiz15/824.ts
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1122
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://hzcdn.vood.top:80/hls/309458_.m3u8
@@ -312,7 +303,7 @@ https://super-cdn.link/espn6/index.m3u8
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
-https://super-cdn.link/premiereclubes/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/148
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 2
 https://super-cdn.link/premiere2/index.m3u8
@@ -351,8 +342,17 @@ https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 group-title="INFANTIS",Desenhos Classicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="INFANTIS",Discovery Kids
+http://15.235.50.115:14561/DiscoveryKids
+
 #EXTINF:-1 group-title="INFANTIS",Gloob
 https://stream1.freetv.fun/gloob-1.ctv
+
+#EXTINF:-1 group-title="INFANTIS",Pernalonga 24H
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/715
+
+#EXTINF:-1 group-title="INFANTIS",Picapau 24H
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/716
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
@@ -366,9 +366,6 @@ https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",RIT
-https://acesso.ecast.site:3648/live/ritlive.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
