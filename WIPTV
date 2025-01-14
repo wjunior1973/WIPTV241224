@@ -56,6 +56,12 @@ http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/233
 
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240
+
+#EXTINF:-1 group-title="FILMES/SERIES",FX
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
+
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/168
 
@@ -82,6 +88,9 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/163
 
 #EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/130
 
 #EXTINF:-1 group-title="FILMES/SERIES",NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -143,6 +152,9 @@ http://fzcdn.vood.top/hls/731_.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Novelas
 https://super-cdn.link/tntnovelas/index.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Universal Channel
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/125
+
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
@@ -192,8 +204,17 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/75
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
 
+#EXTINF:-1 group-title="VARIEDADES",Film & Arts
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/173
+
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/105
+
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://super-cdn.link/gnt/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",HGTV
+http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/552
 
 #EXTINF:-1 group-title="VARIEDADES",Homeful
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
@@ -206,6 +227,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 
 #EXTINF:-1 group-title="VARIEDADES",MasterChef Brasil
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Modo Viagem
+http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/106
 
 #EXTINF:-1 group-title="VARIEDADES",MTV Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9dc1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -336,6 +360,9 @@ https://super-cdn.link/sportv3/index.m3u8
 ###### INFANTIS ######
 ######################
 
+#EXTINF:-1 group-title="INFANTIS",Cartoon Network
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/347
+
 #EXTINF:-1 group-title="INFANTIS",D.P.A. 24H
 https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 
@@ -348,6 +375,12 @@ http://15.235.50.115:14561/DiscoveryKids
 #EXTINF:-1 group-title="INFANTIS",Gloob
 https://stream1.freetv.fun/gloob-1.ctv
 
+#EXTINF:-1 group-title="INFANTIS",He-man 24H
+http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/694
+
+#EXTINF:-1 group-title="INFANTIS",Os Flintstones 24H
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/706
+
 #EXTINF:-1 group-title="INFANTIS",Pernalonga 24H
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/715
 
@@ -357,15 +390,21 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/716
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
+#EXTINF:-1 group-title="INFANTIS",Zoomoo
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/370
+
 ########################
 ###### RELIGIOSOS ######
 ########################
 
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Familia
-https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="RELIGIOSOS",Pai Eterno
+http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/939
 
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
+http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/113
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
