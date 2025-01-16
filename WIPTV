@@ -13,9 +13,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/129
 
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau [2]
-http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-m3noAmGBE3/uBv3qQA2xj/515.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ
 http://tv.fazoeli.co.za/m3u8/globorj.m3u8
 
@@ -27,9 +24,6 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
 
 #EXTINF:-1 group-title="TV ABERTA",Record RJ
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
-
-#EXTINF:-1 group-title="TV ABERTA",Record SP
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/999
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index.m3u8
@@ -54,10 +48,7 @@ http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-m3noAmGBE3/uBv3qQA2xj/225
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/233
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/124
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
@@ -86,6 +77,9 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/164
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/163
 
+#EXTINF:-1 group-title="FILMES/SERIES",Lifetime
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/162
+
 #EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -98,8 +92,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 #EXTINF:-1 group-title="FILMES/SERIES",Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Os Simpsons 24H
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/710
 
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount Network
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
@@ -191,15 +183,6 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/7
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/140
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery Science
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/71
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/73
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/75
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
@@ -302,9 +285,6 @@ http://tv.fazoeli.co.za/m3u8/bandsports.m3u8
 #EXTINF:-1 group-title="ESPORTES",Caze TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Combate
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1122
-
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://hzcdn.vood.top:80/hls/309458_.m3u8
 
@@ -325,9 +305,6 @@ https://super-cdn.link/espn6/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",GE Globo Esporte
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Premiere Clubes
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/148
 
 #EXTINF:-1 group-title="ESPORTES",Premiere 2
 https://super-cdn.link/premiere2/index.m3u8
@@ -360,9 +337,6 @@ https://super-cdn.link/sportv3/index.m3u8
 ###### INFANTIS ######
 ######################
 
-#EXTINF:-1 group-title="INFANTIS",Cartoon Network
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/347
-
 #EXTINF:-1 group-title="INFANTIS",D.P.A. 24H
 https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 
@@ -378,20 +352,8 @@ https://stream1.freetv.fun/gloob-1.ctv
 #EXTINF:-1 group-title="INFANTIS",He-man 24H
 http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/694
 
-#EXTINF:-1 group-title="INFANTIS",Os Flintstones 24H
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/706
-
-#EXTINF:-1 group-title="INFANTIS",Pernalonga 24H
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/715
-
-#EXTINF:-1 group-title="INFANTIS",Picapau 24H
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/716
-
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Zoomoo
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/370
 
 ########################
 ###### RELIGIOSOS ######
