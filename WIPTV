@@ -13,23 +13,8 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/129
 
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau [2]
-http://xciptv.8888play.one:80/228463308/r576049x/360674
-
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Florianopolis
-http://xciptv.8888play.one:80/228463308/r576049x/360916
-
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Joinville
-http://xciptv.8888play.one:80/228463308/r576049x/2305
-
 #EXTINF:-1 group-title="TV ABERTA",Globo
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/29
-
-#EXTINF:-1 group-title="TV ABERTA",Globo [2]
-http://xciptv.8888play.one:80/228463308/r576049x/2375
-
-#EXTINF:-1 group-title="TV ABERTA",Globo [3]
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
 
 #EXTINF:-1 group-title="TV ABERTA",Record
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
@@ -61,9 +46,6 @@ http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/124
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://xciptv.8888play.one:80/228463308/r576049x/21231
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
@@ -140,35 +122,14 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/157
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/154
 
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action [2]
-http://xciptv.8888play.one:80/228463308/r576049x/615
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
-http://xciptv.8888play.one:80/228463308/r576049x/620
-
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/152
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun [2]
-http://xciptv.8888play.one:80/228463308/r576049x/625
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
-http://xciptv.8888play.one:80/228463308/r576049x/630
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
 http://fzcdn.vood.top:80/hls/633_.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium [2]
-http://xciptv.8888play.one:80/228463308/r576049x/635
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
-http://xciptv.8888play.one:80/228463308/r576049x/589
-
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 http://fzcdn.vood.top/hls/731_.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TNT Series
-http://xciptv.8888play.one:80/228463308/r576049x/21286
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Novelas
 https://super-cdn.link/tntnovelas/index.m3u8
@@ -195,9 +156,6 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/146
 ###### VARIEDADES ######
 ########################
 
-#EXTINF:-1 group-title="VARIEDADES",Animal Planet
-http://xciptv.8888play.one:80/228463308/r576049x/22305
-
 #EXTINF:-1 group-title="VARIEDADES",BIS
 https://super-cdn.link/bis/index.m3u8
 
@@ -209,21 +167,6 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/7
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/140
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery H&H [2]
-http://xciptv.8888play.one:80/228463308/r576049x/21295
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery Science
-http://xciptv.8888play.one:80/228463308/r576049x/21297
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
-http://xciptv.8888play.one:80/228463308/r576049x/21298
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
-http://xciptv.8888play.one:80/228463308/r576049x/21299
-
-#EXTINF:-1 group-title="VARIEDADES",Discovery World
-http://xciptv.8888play.one:80/228463308/r576049x/21300
 
 #EXTINF:-1 group-title="VARIEDADES",Film & Arts
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/173
@@ -311,14 +254,8 @@ https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 ###### ESPORTES ######
 ######################
 
-#EXTINF:-1 group-title="ESPORTES",Band Sports
-http://xciptv.8888play.one:80/228463308/r576049x/118755
-
 #EXTINF:-1 group-title="ESPORTES",Caze TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Combate
-http://xciptv.8888play.one:80/228463308/r576049x/118753
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://hzcdn.vood.top:80/hls/309458_.m3u8
