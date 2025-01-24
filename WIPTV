@@ -13,11 +13,23 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/129
 
-#EXTINF:-1 group-title="TV ABERTA",Globo RJ
-http://tv.fazoeli.co.za/m3u8/globorj.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau [2]
+http://xciptv.8888play.one:80/228463308/r576049x/360674
 
-#EXTINF:-1 group-title="TV ABERTA",Globo SP
-http://tv.fazoeli.co.za/m3u8/globosp.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Florianopolis
+http://xciptv.8888play.one:80/228463308/r576049x/360916
+
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Joinville
+http://xciptv.8888play.one:80/228463308/r576049x/2305
+
+#EXTINF:-1 group-title="TV ABERTA",Globo
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/29
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [2]
+http://xciptv.8888play.one:80/228463308/r576049x/2375
+
+#EXTINF:-1 group-title="TV ABERTA",Globo [3]
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
 
 #EXTINF:-1 group-title="TV ABERTA",Record
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
@@ -49,6 +61,9 @@ http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AXN
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/124
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
+http://xciptv.8888play.one:80/228463308/r576049x/21231
 
 #EXTINF:-1 group-title="FILMES/SERIES",FX
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
@@ -92,7 +107,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 #EXTINF:-1 group-title="FILMES/SERIES",Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
 
-
 #EXTINF:-1 group-title="FILMES/SERIES",Paramount Network
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
 
@@ -126,20 +140,35 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/157
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/154
 
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action [2]
+http://xciptv.8888play.one:80/228463308/r576049x/615
+
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
-http://15.235.50.113:14014/
+http://xciptv.8888play.one:80/228463308/r576049x/620
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/152
 
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun [2]
+http://xciptv.8888play.one:80/228463308/r576049x/625
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
+http://xciptv.8888play.one:80/228463308/r576049x/630
+
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
 http://fzcdn.vood.top:80/hls/633_.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium [2]
+http://xciptv.8888play.one:80/228463308/r576049x/635
+
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
-http://15.235.50.113:14012/TelecineTouch
+http://xciptv.8888play.one:80/228463308/r576049x/589
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 http://fzcdn.vood.top/hls/731_.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT Series
+http://xciptv.8888play.one:80/228463308/r576049x/21286
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT Novelas
 https://super-cdn.link/tntnovelas/index.m3u8
@@ -166,11 +195,8 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/146
 ###### VARIEDADES ######
 ########################
 
-#EXTINF:-1 group-title="VARIEDADES",BBB Cam 1
-https://cr7v.short.gy/ManoTVfree/BBB1/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",BBB Cam 2
-https://cr7v.short.gy/ManoTVfree/BBB2/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Animal Planet
+http://xciptv.8888play.one:80/228463308/r576049x/22305
 
 #EXTINF:-1 group-title="VARIEDADES",BIS
 https://super-cdn.link/bis/index.m3u8
@@ -184,8 +210,20 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/7
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/140
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H [2]
+http://xciptv.8888play.one:80/228463308/r576049x/21295
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://xciptv.8888play.one:80/228463308/r576049x/21297
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://xciptv.8888play.one:80/228463308/r576049x/21298
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+http://xciptv.8888play.one:80/228463308/r576049x/21299
+
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
-http://15.235.50.112:14112/DiscoveryWorld
+http://xciptv.8888play.one:80/228463308/r576049x/21300
 
 #EXTINF:-1 group-title="VARIEDADES",Film & Arts
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/173
@@ -199,17 +237,11 @@ http://super-cdn.link/gnt/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/552
 
-#EXTINF:-1 group-title="VARIEDADES",Homeful
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES",L!ke
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="VARIEDADES",MasterChef Brasil
-https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Modo Viagem
 http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/106
@@ -280,10 +312,13 @@ https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 ######################
 
 #EXTINF:-1 group-title="ESPORTES",Band Sports
-http://tv.fazoeli.co.za/m3u8/bandsports.m3u8
+http://xciptv.8888play.one:80/228463308/r576049x/118755
 
 #EXTINF:-1 group-title="ESPORTES",Caze TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Combate
+http://xciptv.8888play.one:80/228463308/r576049x/118753
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://hzcdn.vood.top:80/hls/309458_.m3u8
@@ -342,9 +377,6 @@ https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Desenhos Classicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="INFANTIS",Discovery Kids
-http://15.235.50.115:14561/DiscoveryKids
 
 #EXTINF:-1 group-title="INFANTIS",Gloob
 https://stream1.freetv.fun/gloob-1.ctv
