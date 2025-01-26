@@ -291,3 +291,49 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Imaculada
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
+
+######################
+###### PORTUGAL ######
+######################
+
+#EXTINF:-1 group-title="PORTUGAL",AMC
+http://176.65.146.108:8022/play/a07a/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",AXN
+http://176.65.146.108:8022/play/a07n/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",AXN Movies
+http://176.65.146.108:8022/play/a06l/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",AXN White
+http://176.65.146.108:8022/play/a06m/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",Cinemundo
+http://176.65.146.108:8022/play/a05f/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",FOX
+http://176.65.146.108:8022/play/a07m/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",FOX Crime
+http://176.65.146.108:8022/play/a06p/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",FOX Movies
+http://176.65.146.108:8022/play/a07r/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",Hollywood
+http://176.65.146.108:8022/play/a061/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",SyFy
+http://176.65.146.108:8022/play/a088/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",TV Cine Action
+http://176.65.146.108:8022/play/a079/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",TV Cine Edition
+http://176.65.146.108:8022/play/a06x/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",TV Cine Emotion
+http://176.65.146.108:8022/play/a06y/index.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",TV Cine Top
+http://176.65.146.108:8022/play/a078/index.m3u8
