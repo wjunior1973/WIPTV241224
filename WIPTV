@@ -11,7 +11,7 @@ https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/515
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/129
 
 #EXTINF:-1 group-title="TV ABERTA",Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
@@ -25,12 +25,21 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",TV Galega Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+
 ###########################
 ###### FILMES/SERIES ######
 ###########################
 
+#EXTINF:-1 group-title="FILMES/SERIES",A&E
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Adrenalina Freezone
 https://cc-e2pb6h3gp19c3.akamaized.net/Sofa_Digital/Adrenalina_Freezone_BR/Adrenalina_Freezone.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
@@ -147,6 +156,9 @@ https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HL
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Dance Hits 80s
+http://dancehits80.denvs.ru:8080/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Hallo! Doc
 https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=0fb1d8ca306aa36413e9cc65e4fe40c35ffb54d0-3661fd422d102d89db1283e72d1e3b4a-1731305419-1731262219
 
@@ -192,6 +204,9 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",WisePlay TV
+https://acesso.ecast.site:3142/hybrid/play.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Xite 80 Flashback
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -211,7 +226,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Euronews Portugal
+#EXTINF:-1 group-title="NOTICIAS",Euronews [LEG]
 https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
@@ -222,9 +237,6 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",TVD News
-http://201.159.95.110:25461/live/site/site/666.m3u8
 
 ######################
 ###### ESPORTES ######
@@ -248,9 +260,6 @@ https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX0
 
 #EXTINF:-1 group-title="INFANTIS",D.P.A. 24H
 https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",De Crianca para Crianca
-https://cdn-5.nxplay.com.br/dcpc/tracks-v2a1/mono.m3u8?token=317ed945c8136a0d8c80d945ef86f282cc41acaf-675716e30ff666437e1b3ac60a7cefb4-1731470422-1731427222
 
 #EXTINF:-1 group-title="INFANTIS",Desenhos Classicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -278,7 +287,7 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/113
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Imaculada
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
