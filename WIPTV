@@ -4,17 +4,8 @@
 ###### TV ABERTA ######
 #######################
 
-#EXTINF:-1 group-title="TV ABERTA",Band SP
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
-
-#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/129
-
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://15.235.50.113:14770
-
-#EXTINF:-1 group-title="TV ABERTA",Record SP
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/50
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
@@ -189,9 +180,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Euronews [LEG]
-https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
