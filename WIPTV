@@ -7,8 +7,17 @@
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://15.235.50.115:14522
 
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Floripa
+https://super-cdn.link/globosc-nsctvflorianopolis/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ
+https://new.m3u8.one/globorj/index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://15.235.50.113:14770
+
+#EXTINF:-1 group-title="TV ABERTA",Record SP
+https://super-cdn.link/record/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
@@ -25,6 +34,9 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 https://abrir.me/wjCTK?ManoTV
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
+https://super-cdn.link/axn/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",FilmRise
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
@@ -43,6 +55,15 @@ https://cdn-5.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8?token=68c5767b5f4c26
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO
 https://abrir.me/bAGcS?ManoTV
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
+https://super-cdn.link/hbo2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
+http://15.235.50.112:14192/
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
+https://super-cdn.link/hboplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",MacGyver 24H
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -68,20 +89,38 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 group-title="FILMES/SERIES",Run:Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
-#EXTINF:-1 group-title="FILMES/SERIES",Sony One Classics
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
+https://super-cdn.link/sonychannel/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Sony One Emocoes
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Movies
+https://super-cdn.link/sonymovies/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Space
+https://new.m3u8.one/space/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
+http://185.246.208.74:14370/
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
+https://super-cdn.link/telecineaction/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
 https://abrir.me/iNKKX?ManoTV
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
+http://185.246.208.74:14940/
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
 https://abrir.me/CDHPY?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 http://super-cdn.link/tnt/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Universal Channel
+https://abrir.me/gncXj?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
@@ -101,6 +140,12 @@ https://super-cdn.link/warnerchannel/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Channel
+https://super-cdn.link/discoverychannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
+https://super-cdn.link/discoveryheh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
@@ -141,6 +186,9 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",ViVA
+http://conexao-vs.live/VIVA/index.m3u8
+
 ######################
 ###### NOTICIAS ######
 ######################
@@ -151,8 +199,14 @@ https://super-cdn.link/bandnews/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",BM&C News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="NOTICIAS",Canal UOL
+https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",Globo News
+http://79.127.238.228:14093/
 
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
@@ -167,11 +221,50 @@ https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 ###### ESPORTES ######
 ######################
 
+#EXTINF:-1 group-title="ESPORTES",Band Sports
+https://super-cdn.link/bandsports/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Caze TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",Combate
+https://super-cdn.link/combate/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN
+https://cr7v.short.gy/manoiTV/spnHD/ZAP075991634025/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
+https://super-cdn.link/espn2/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 3
+https://super-cdn.link/espn3/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 4
+https://super-cdn.link/espn4/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 5
+https://super-cdn.link/espn5/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",ESPN 6
+https://super-cdn.link/espn6/index.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://15.235.15.230:14020
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+https://super-cdn.link/premiere2/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+https://super-cdn.link/premiere3/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+https://cr7v.short.gy/manoiTV/sptvextra/75991634025/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 2
+https://super-cdn.link/sportv2/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",SporTV 3
+https://super-cdn.link/sportv3/index.m3u8
 
 ######################
 ###### INFANTIS ######
