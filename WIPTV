@@ -7,6 +7,9 @@
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://15.235.50.115:14522
 
+#EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/515
+
 #EXTINF:-1 group-title="TV ABERTA",Globo RJ
 https://new.m3u8.one/globorj/index.m3u8
 
@@ -14,7 +17,7 @@ https://new.m3u8.one/globorj/index.m3u8
 http://15.235.50.113:14770
 
 #EXTINF:-1 group-title="TV ABERTA",Record SP
-
+http://conexao-vs.live/RECORD/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
