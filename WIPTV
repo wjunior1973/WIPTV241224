@@ -32,6 +32,9 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 https://abrir.me/wjCTK?ManoTV
 
+#EXTINF:-1 group-title="FILMES/SERIES",Dois Homens e Meio 24H
+http://45.134.141.161:2200/BRX/24HS_Dois_Homens_e_Meio1/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo! Classic
 https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=cf13e87b855ab49daac5ebe7d93e81514a5cbab7-0e08ef78ccf8bea855c6905a327c1707-1733526642-1733483442
 
@@ -89,6 +92,15 @@ http://185.246.208.74:14940/
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
 https://abrir.me/CDHPY?ManoTV
 
+#EXTINF:-1 group-title="FILMES/SERIES",TNT
+http://conexao-vs.live/TNT/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Todo Mundo Odeia O Chris 24H
+http://45.134.141.161:2200/BRX/24HS_Todo_mundo_odeia_o_Chris/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Um Maluco no Pedaco 24H
+http://45.134.141.161:2200/BRX/24HS_Um_maluco_no_pedaco/index.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
@@ -97,6 +109,9 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
+http://79.127.238.228:14647/
 
 ########################
 ###### VARIEDADES ######
@@ -173,8 +188,14 @@ https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="ESPORTES",Caze TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://185.246.208.74:14493/
+
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://15.235.15.230:14020
+
+#EXTINF:-1 group-title="ESPORTES",SporTV
+http://185.246.208.74:14662/
 
 ########################
 ###### RELIGIOSOS ######
