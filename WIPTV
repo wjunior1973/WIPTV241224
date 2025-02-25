@@ -10,9 +10,6 @@ http://15.235.50.115:14522
 #EXTINF:-1 group-title="TV ABERTA",Globo NSC Blumenau
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/515
 
-#EXTINF:-1 group-title="TV ABERTA",Globo RJ
-https://new.m3u8.one/globorj/index.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://15.235.50.113:14770
 
@@ -82,9 +79,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Space
-https://new.m3u8.one/space/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Star Channel
 http://185.246.208.74:14370/
