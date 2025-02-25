@@ -173,46 +173,15 @@ https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="ESPORTES",Caze TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",ESPN
-https://cr7v.short.gy/manoiTV/spnHD/ZAP075991634025/index.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://15.235.15.230:14020
-
-#EXTINF:-1 group-title="ESPORTES",SporTV
-https://cr7v.short.gy/manoiTV/sptvextra/75991634025/index.m3u8
-
-######################
-###### INFANTIS ######
-######################
-
-#EXTINF:-1 group-title="INFANTIS",D.P.A. 24H
-https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Desenhos Classicos
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="INFANTIS",KidsMais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",Leo e Lully
-https://cdn-5.nxplay.com.br/LEO_E_LULLY/tracks-v1a1/mono.m3u8?token=9267fc0520cb18dabfbcd2d0948b9ac39ffa1fae-32e7e90790d141bea7d9880974db3e1b-1731470422-1731427222
-
-#EXTINF:-1 group-title="INFANTIS",Urban Kids
-http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 ########################
 ###### RELIGIOSOS ######
 ########################
 
-#EXTINF:-1 group-title="RELIGIOSOS",Pai Eterno
-http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/939
-
 #EXTINF:-1 group-title="RELIGIOSOS",Rede Seculo 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
-http://xp2.hostinggonemoreso10.com:2082/Tourobox1-m3noAmGBE3/uBv3qQA2xj/113
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
