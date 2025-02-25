@@ -32,9 +32,6 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 https://abrir.me/wjCTK?ManoTV
 
-#EXTINF:-1 group-title="FILMES/SERIES",FilmRise
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo! Classic
 https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=cf13e87b855ab49daac5ebe7d93e81514a5cbab7-0e08ef78ccf8bea855c6905a327c1707-1733526642-1733483442
 
@@ -91,9 +88,6 @@ http://185.246.208.74:14940/
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
 https://abrir.me/CDHPY?ManoTV
-
-#EXTINF:-1 group-title="FILMES/SERIES",Universal Channel
-https://abrir.me/gncXj?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
