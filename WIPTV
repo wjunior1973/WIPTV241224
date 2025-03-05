@@ -3,6 +3,9 @@
 #EXTINF:-1,Band
 http://15.235.50.115:14522
 
+#EXTINF:-1,Canal Off
+http://15.235.11.7:14075
+
 #EXTINF:-1,Canal UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 
@@ -11,6 +14,9 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
 #EXTINF:-1,Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1,Discovery World
+http://15.235.50.112:14112/
 
 #EXTINF:-1,Dois Homens e Meio 24H
 http://45.134.141.161:2200/BRX/24HS_Dois_Homens_e_Meio1/index.m3u8
@@ -41,6 +47,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 
 #EXTINF:-1,Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
+
+#EXTINF:-1,Premiere Clubes
+http://15.235.15.230:14020
 
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
