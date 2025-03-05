@@ -48,6 +48,9 @@ https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1,Record SP
 http://conexao-vs.live/RECORD/index.m3u8
 
+#EXTINF:-1,Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w777908443.m3u8
+
 #EXTINF:-1,Rede TV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
