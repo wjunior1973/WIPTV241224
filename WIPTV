@@ -26,9 +26,6 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 ###### FILMES/SERIES ######
 ###########################
 
-#EXTINF:-1 group-title="FILMES/SERIES",AMC
-https://abrir.me/wjCTK?ManoTV
-
 #EXTINF:-1 group-title="FILMES/SERIES",Dois Homens e Meio 24H
 http://45.134.141.161:2200/BRX/24HS_Dois_Homens_e_Meio1/index.m3u8
 
@@ -40,12 +37,6 @@ https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo! Movies
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
-
-#EXTINF:-1 group-title="FILMES/SERIES",Hallo! Plus
-https://cdn-5.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8?token=68c5767b5f4c2663b12c2c8b1cda46094e600bf8-ff74fd75a0332f98d9569f131ab259c1-1733526642-1733483442
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO
-https://abrir.me/bAGcS?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",HBO Family
 http://15.235.50.112:14192/
@@ -76,12 +67,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
-http://185.246.208.74:14370/
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
-https://abrir.me/iNKKX?ManoTV
 
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
 http://185.246.208.74:14940/
@@ -157,9 +142,6 @@ http://conexao-vs.live/VIVA/index.m3u8
 ###### NOTICIAS ######
 ######################
 
-#EXTINF:-1 group-title="NOTICIAS",BM&C News
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 group-title="NOTICIAS",Canal UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 
@@ -172,18 +154,12 @@ http://79.127.238.228:14093/
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Programa 4 Por 4
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 
 ######################
 ###### ESPORTES ######
 ######################
-
-#EXTINF:-1 group-title="ESPORTES",Caze TV
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://185.246.208.74:14493/
