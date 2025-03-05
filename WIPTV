@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,AW TV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
 #EXTINF:-1,Band
 http://15.235.50.115:14522
 
@@ -8,6 +11,9 @@ http://15.235.11.7:14075
 
 #EXTINF:-1,Canal UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
+
+#EXTINF:-1,Chaves 24h
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/playlist.m3u8
 
 #EXTINF:-1,CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
@@ -18,11 +24,20 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1,Discovery World
 http://15.235.50.112:14112/
 
-#EXTINF:-1,Dois Homens e Meio 24H
+#EXTINF:-1,Dois Homens e Meio 24h
 http://45.134.141.161:2200/BRX/24HS_Dois_Homens_e_Meio1/index.m3u8
+
+#EXTINF:-1,Eu A Patroa e As Criancas 24h
+http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1,GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:-1,Globo SP
 http://15.235.50.113:14770
+
+#EXTINF:-1,Grjngo
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1,Jovem Pan News
 https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
@@ -30,11 +45,14 @@ https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
 #EXTINF:-1,L!ke
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 
-#EXTINF:-1,MacGyver 24H
+#EXTINF:-1,MacGyver 24h
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,MasterChef
+#EXTINF:-1,MasterChef 24h
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
+
+#EXTINF:-1,MovieSphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
 #EXTINF:-1,MTV Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9dc1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -42,11 +60,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9d
 #EXTINF:-1,MTV Rocks
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2e8fedb23c000859345e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,NCIS 24H
+#EXTINF:-1,NCIS 24h
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1,New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
+
+#EXTINF:-1,Nova Era TV
+http://200.194.238.229:8383/live/novaeratv/playlist.m3u8
 
 #EXTINF:-1,Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
+
+#EXTINF:-1,Os Simpsons 24h
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1,Pegadinhas do Joao Kleber
+http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
 
 #EXTINF:-1,Premiere Clubes
 http://15.235.15.230:14020
@@ -69,6 +99,9 @@ https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1,Run:Time Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
+#EXTINF:-1,Run:Time Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
 #EXTINF:-1,Run:Time Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
@@ -87,10 +120,13 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 #EXTINF:-1,Sony Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1,Sony Emocoes
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
 #EXTINF:-1,Tastemade!
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 
-#EXTINF:-1,Todo Mundo Odeia O Chris 24H
+#EXTINF:-1,Todo Mundo Odeia O Chris 24h
 http://45.134.141.161:2200/BRX/24HS_Todo_mundo_odeia_o_Chris/index.m3u8
 
 #EXTINF:-1,TV Aparecida
@@ -99,7 +135,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1,TV Galega Blumenau
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
-#EXTINF:-1,Um Maluco no Pedaco 24H
+#EXTINF:-1,Um Maluco no Pedaco 24h
 http://45.134.141.161:2200/BRX/24HS_Um_maluco_no_pedaco/index.m3u8
 
 #EXTINF:-1,Urban Docs
@@ -119,6 +155,12 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 #EXTINF:-1,Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:-1,Vevo 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+
+#EXTINF:-1,Vevo Retro Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
 
 #EXTINF:-1,Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
