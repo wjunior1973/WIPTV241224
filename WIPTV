@@ -75,6 +75,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a24
 #EXTINF:-1,GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
+#EXTINF:-1,Globo NSC Blumenau
+http://zutufo.in:80/781487031/K788a6763d/2290
+
+#EXTINF:-1,Globo NSC Centro Oeste
+http://zutufo.in:80/781487031/K788a6763d/2458
+
+#EXTINF:-1,Globo NSC Chapeco
+http://zutufo.in:80/781487031/K788a6763d/2310
+
+#EXTINF:-1,Globo NSC Florianopolis
+http://zutufo.in:80/781487031/K788a6763d/2302
+
+#EXTINF:-1,Globo NSC Joinville
+http://zutufo.in:80/781487031/K788a6763d/2305
+
 #EXTINF:-1,Globo SP
 http://15.235.50.113:14770
 
