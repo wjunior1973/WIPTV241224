@@ -105,6 +105,9 @@ https://cdn-5.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8?token=68c5767b5f4c26
 #EXTINF:-1,Hallo! Classic
 https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=cf13e87b855ab49daac5ebe7d93e81514a5cbab7-0e08ef78ccf8bea855c6905a327c1707-1733526642-1733483442
 
+#EXTINF:-1,Hallo! Doc
+https://cdn-1.nxplay.com.br/HALLODOC/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Hallo! Movies
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
 
@@ -254,6 +257,9 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
 #EXTINF:-1,Urban Drive
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+
+#EXTINF:-1,Urban Kids
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1,Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
