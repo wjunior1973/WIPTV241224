@@ -75,6 +75,12 @@ http://45.134.141.161:2200/BRX/24HS_Eu_a_patroa_e_as_criancas/index.m3u8
 #EXTINF:-1,Filmelier TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1,FreeTV Crime
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
+
+#EXTINF:-1,FreeTV Drama
+https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
+
 #EXTINF:-1,GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
@@ -90,13 +96,22 @@ http://79.127.238.228:14402
 #EXTINF:-1,Grjngo
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1,Hallo Anime
+#EXTINF:-1,Hallo! Anime
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
-#EXTINF:-1,Hallo Music
+#EXTINF:-1,Hallo! Brasil
+https://cdn-5.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8?token=68c5767b5f4c2663b12c2c8b1cda46094e600bf8-ff74fd75a0332f98d9569f131ab259c1-1733526642-1733483442
+
+#EXTINF:-1,Hallo! Classic
+https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=cf13e87b855ab49daac5ebe7d93e81514a5cbab7-0e08ef78ccf8bea855c6905a327c1707-1733526642-1733483442
+
+#EXTINF:-1,Hallo! Movies
+https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
+
+#EXTINF:-1,Hallo! Music
 https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF:-1,Hallo Series
+#EXTINF:-1,Hallo! Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1,HBO Family
@@ -251,12 +266,6 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 #EXTINF:-1,Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
-
-#EXTINF:-1,Vevo 80s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
-
-#EXTINF:-1,Vevo Retro Rock
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
 
 #EXTINF:-1,Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
