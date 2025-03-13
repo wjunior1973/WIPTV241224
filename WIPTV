@@ -15,9 +15,6 @@ https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
 #EXTINF:-1,AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1,Band
-https://live-stream.gsnoticias.net.br/live/live-goiania.flv
-
 #EXTINF:-1,BM&C News
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
@@ -81,13 +78,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a24
 #EXTINF:-1,GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
-#EXTINF:-1,Globo NSC Blumenau
-http://zutufo.in:80/781487031/K788a6763d/2290
-
-#EXTINF:-1,Globo SP
+#EXTINF:-1,Globo
 http://15.235.50.113:14770
 
-#EXTINF:-1,GloboNews
+#EXTINF:-1,Globo News
 http://79.127.238.228:14093
 
 #EXTINF:-1,GNT
