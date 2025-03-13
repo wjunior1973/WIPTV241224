@@ -15,6 +15,9 @@ https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
 #EXTINF:-1,AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
+#EXTINF:-1,Band
+https://live-stream.gsnoticias.net.br/live/live-goiania.flv
+
 #EXTINF:-1,BM&C News
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
@@ -29,6 +32,12 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 
 #EXTINF:-1,Caze TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1,Chapolin Colorado 24h
+http://45.134.141.161:2200/BRX/24HS_Chapolin_Colorado/index.m3u8
+
+#EXTINF:-1,Chaves 24h
+http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
 
 #EXTINF:-1,Cinemonde
 https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
@@ -59,6 +68,9 @@ http://15.235.50.112:14112/
 
 #EXTINF:-1,Dois Homens e Meio 24h
 http://45.134.141.161:2200/BRX/24HS_Dois_Homens_e_Meio1/index.m3u8
+
+#EXTINF:-1,Eu a Patroa e as Criancas 24h
+http://45.134.141.161:2200/BRX/24HS_Eu_a_patroa_e_as_criancas/index.m3u8
 
 #EXTINF:-1,Filmelier TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -128,6 +140,9 @@ http://200.194.238.229:8383/live/novaeratv/playlist.m3u8
 
 #EXTINF:-1,Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
+
+#EXTINF:-1,Os Simpsons 24h
+http://45.134.141.161:2200/BRX/24HS_Simpson1/index.m3u8
 
 #EXTINF:-1,Otaku TV
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
@@ -215,6 +230,9 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
 #EXTINF:-1,TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1,TVD News
+http://201.159.95.110:25461/live/site/site/666.m3u8
 
 #EXTINF:-1,Um Maluco no Pedaco 24h
 http://45.134.141.161:2200/BRX/24HS_Um_maluco_no_pedaco/index.m3u8
