@@ -6,14 +6,26 @@ https://011news.akamaized.net/011news/011news/playlist.m3u8
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
 
+#EXTINF:-1,AMC
+http://zutufo.in:80/781487031/K788a6763d/671
+
 #EXTINF:-1,Animal Planet
 http://79.127.238.228:14386
 
 #EXTINF:-1,AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
+#EXTINF:-1,AXN
+http://zutufo.in:80/781487031/K788a6763d/21223
+
 #EXTINF:-1,Band
 http://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,Band News
+http://zutufo.in:80/781487031/K788a6763d/118883
+
+#EXTINF:-1,Band Sports
+http://zutufo.in:80/781487031/K788a6763d/21225
 
 #EXTINF:-1,BM&C News
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -24,8 +36,17 @@ http://15.235.11.7:14075
 #EXTINF:-1,Canal Rural
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 
+#EXTINF:-1,Canal Sony
+http://zutufo.in:80/781487031/K788a6763d/21229
+
 #EXTINF:-1,Canal UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://zutufo.in:80/781487031/K788a6763d/21230
+
+#EXTINF:-1,Cartoonito
+http://zutufo.in:80/781487031/K788a6763d/368111
 
 #EXTINF:-1,CaTVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
@@ -39,11 +60,17 @@ http://45.134.141.161:2200/BRX/24HS_Chapolin_Colorado/index.m3u8
 #EXTINF:-1,Chaves 24h
 http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
 
+#EXTINF:-1,Cinemax
+http://zutufo.in:80/781487031/K788a6763d/21231
+
 #EXTINF:-1,Cinemonde
 https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
 
 #EXTINF:-1,CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+
+#EXTINF:-1,Combate
+http://zutufo.in:80/781487031/K788a6763d/239
 
 #EXTINF:-1,Cultura
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -57,8 +84,23 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1,Darkflix
 https://video01.soultv.com.br/darkflix/darkflix/index.m3u8
 
+#EXTINF:-1,Discovery Channel
+http://zutufo.in:80/781487031/K788a6763d/21338
+
+#EXTINF:-1,Discovery H&H
+http://zutufo.in:80/781487031/K788a6763d/21295
+
 #EXTINF:-1,Discovery ID
 http://79.127.238.228:14379
+
+#EXTINF:-1,Discovery Kids
+http://zutufo.in:80/781487031/K788a6763d/367319
+
+#EXTINF:-1,Discovery Science
+http://zutufo.in:80/781487031/K788a6763d/21297
+
+#EXTINF:-1,Discovery Theater
+http://zutufo.in:80/781487031/K788a6763d/21298
 
 #EXTINF:-1,Discovery Turbo
 http://79.127.238.228:14367
@@ -68,6 +110,24 @@ http://15.235.50.112:14112/
 
 #EXTINF:-1,Dois Homens e Meio 24h
 http://45.134.141.161:2200/BRX/24HS_Dois_Homens_e_Meio1/index.m3u8
+
+#EXTINF:-1,ESPN
+http://zutufo.in:80/781487031/K788a6763d/21315
+
+#EXTINF:-1,ESPN 2
+http://zutufo.in:80/781487031/K788a6763d/52091
+
+#EXTINF:-1,ESPN 3
+http://zutufo.in:80/781487031/K788a6763d/21235
+
+#EXTINF:-1,ESPN 4
+http://zutufo.in:80/781487031/K788a6763d/21318
+
+#EXTINF:-1,ESPN 5
+http://zutufo.in:80/781487031/K788a6763d/228
+
+#EXTINF:-1,ESPN 6
+http://zutufo.in:80/781487031/K788a6763d/243
 
 #EXTINF:-1,Eu a Patroa e as Criancas 24h
 http://45.134.141.161:2200/BRX/24HS_Eu_a_patroa_e_as_criancas/index.m3u8
@@ -81,11 +141,17 @@ https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
 #EXTINF:-1,FreeTV Drama
 https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
 
+#EXTINF:-1,Futura
+http://zutufo.in:80/781487031/K788a6763d/158
+
 #EXTINF:-1,GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:-1,Globo
 http://15.235.50.113:14770
+
+#EXTINF:-1,Globo NSC Blumenau
+http://zutufo.in:80/781487031/K788a6763d/360674
 
 #EXTINF:-1,Globo NSC Florianopolis
 http://zutufo.in:80/live/781487031/K788a6763d/2302_.m3u8
@@ -120,8 +186,26 @@ https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:-1,Hallo! Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
+#EXTINF:-1,HBO
+http://zutufo.in:80/781487031/K788a6763d/21248
+
+#EXTINF:-1,HBO 2
+http://zutufo.in:80/781487031/K788a6763d/21246
+
 #EXTINF:-1,HBO Family
-http://15.235.50.112:14192/
+http://zutufo.in:80/781487031/K788a6763d/21247
+
+#EXTINF:-1,HBO Plus
+http://zutufo.in:80/781487031/K788a6763d/21249
+
+#EXTINF:-1,HBO Pop
+http://zutufo.in:80/781487031/K788a6763d/21256
+
+#EXTINF:-1,HBO Signature
+http://zutufo.in:80/781487031/K788a6763d/21250
+
+#EXTINF:-1,HGTV
+http://zutufo.in:80/781487031/K788a6763d/141266
 
 #EXTINF:-1,HTO Docs
 https://cdn-3.nxplay.com.br/HTO_DOCS/tracks-v1a1/mono.m3u8
@@ -150,6 +234,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea
 #EXTINF:-1,MasterChef 24h
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 
+#EXTINF:-1,Megapix
+http://zutufo.in:80/781487031/K788a6763d/21257
+
 #EXTINF:-1,MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
@@ -177,8 +264,38 @@ http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
 #EXTINF:-1,Premiere Clubes
 http://15.235.15.230:14020
 
+#EXTINF:-1,Premiere 2
+http://zutufo.in:80/781487031/K788a6763d/21266
+
+#EXTINF:-1,Premiere 3
+http://zutufo.in:80/781487031/K788a6763d/21267
+
+#EXTINF:-1,Premiere 4
+http://zutufo.in:80/781487031/K788a6763d/21327
+
+#EXTINF:-1,Premiere 5
+http://zutufo.in:80/781487031/K788a6763d/21268
+
+#EXTINF:-1,Premiere 6
+http://zutufo.in:80/781487031/K788a6763d/21328
+
+#EXTINF:-1,Premiere 7
+http://zutufo.in:80/781487031/K788a6763d/21329
+
+#EXTINF:-1,Premiere 8
+http://zutufo.in:80/781487031/K788a6763d/380749
+
 #EXTINF:-1,Record
 http://conexao-vs.live/RECORD/index.m3u8
+
+#EXTINF:-1,Record NDTV Blumenau
+http://zutufo.in:80/781487031/K788a6763d/244128
+
+#EXTINF:-1,Record NDTV Floripa
+http://zutufo.in:80/781487031/K788a6763d/244144
+
+#EXTINF:-1,Record NDTV SC
+http://zutufo.in:80/781487031/K788a6763d/244127
 
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
@@ -219,6 +336,9 @@ https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender.m3u8
 #EXTINF:-1,SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
+#EXTINF:-1,Space
+http://zutufo.in:80/781487031/K788a6763d/21272
+
 #EXTINF:-1,SFT Combat
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 
@@ -228,11 +348,38 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Sony Emocoes
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
+#EXTINF:-1,SporTV
+http://zutufo.in:80/781487031/K788a6763d/21275
+
+#EXTINF:-1,SporTV 2
+http://zutufo.in:80/781487031/K788a6763d/21273
+
+#EXTINF:-1,SporTV 3
+http://zutufo.in:80/781487031/K788a6763d/21274
+
 #EXTINF:-1,StandUp 24h
 http://24hrs.homelinux.com:8080/24H-standup/video.m3u8
 
+#EXTINF:-1,Studio Universal
+http://zutufo.in:80/781487031/K788a6763d/712
+
 #EXTINF:-1,Tastemade!
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
+
+#EXTINF:-1,Telecine Action
+http://zutufo.in:80/781487031/K788a6763d/21279
+
+#EXTINF:-1,Telecine Fun
+http://zutufo.in:80/781487031/K788a6763d/21281
+
+#EXTINF:-1,Telecine Pipoca
+http://zutufo.in:80/781487031/K788a6763d/21282
+
+#EXTINF:-1,Telecine Premium
+http://zutufo.in:80/781487031/K788a6763d/21283
+
+#EXTINF:-1,Telecine Touch
+http://zutufo.in:80/781487031/K788a6763d/21284
 
 #EXTINF:-1,TLC
 http://79.127.238.228:14433
@@ -284,6 +431,9 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 #EXTINF:-1,Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:-1,USA Channel
+http://zutufo.in:80/781487031/K788a6763d/21277
 
 #EXTINF:-1,Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
