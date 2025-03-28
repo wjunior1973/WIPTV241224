@@ -5,7 +5,10 @@
 #EXTINF:-1 group-title="TV ABERTA",Band
 http://conexao-vs.live/BAND/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Globo
+#EXTINF:-1 group-title="TV ABERTA",Globo RJ
+http://79.127.238.228:14217
+
+#EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://15.235.50.113:14770
 
 #EXTINF:-1 group-title="TV ABERTA",Record
@@ -17,30 +20,13 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",TV Galega Blumenau
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-
-###### RELIGIOSOS ######
-
-#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
-https://cdn2.easy.tv.br/redevida/index.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Imaculada
-https://caikron.com.br:19360/tvmi/tvmi.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSOS",TV Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-
 ###### NOTICIAS ######
 
 #EXTINF:-1 group-title="NOTICIAS",BM&C News
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1, group-title="NOTICIAS"CNBC Times Brasil
+https://video01.soultv.com.br/timesbrasil/timesbrasil/chunks.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
@@ -67,6 +53,89 @@ http://15.235.15.230:14020
 
 #EXTINF:-1 group-title="ESPORTES",SFT Combat
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
+
+##### FILMES/SERIES ######
+
+#EXTINF:-1 group-title="FILMES/SERIES",A&E
+http://79.127.238.228:14551
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
+http://79.127.238.228:14563
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemonde
+https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmelier TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="FILMES/SERIES",FreeTV Crime
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",FreeTV Drama
+https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Hallo Series
+https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
+http://15.235.50.112:14192/
+
+#EXTINF:-1 group-title="FILMES/SERIES",HTO Filmes
+https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://79.127.238.228:14592
+
+#EXTINF:-1 group-title="FILMES/SERIES",MovieSphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",NetMovies
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 group-title="FILMES/SERIES",Old Series
+http://200.194.238.229:8383/live/oldseries/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Reviva TV
+https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Acao
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Emocoes
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT
+http://conexao-vs.live/TNT/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Urban Retro
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Urban Series
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
+http://79.127.238.228:14647
 
 ###### 24 HORAS ######
 
@@ -121,77 +190,6 @@ http://45.134.141.161:2200/BRX/24HS_Tom_e_Jerry/index.m3u8
 #EXTINF:-1 group-title="24 HORAS",Um Maluco no Pedaco
 http://45.134.141.161:2200/BRX/24HS_Um_maluco_no_pedaco/index.m3u8
 
-##### FILMES/SERIES ######
-
-#EXTINF:-1 group-title="FILMES/SERIES",A&E
-http://79.127.238.228:14551
-
-#EXTINF:-1 group-title="FILMES/SERIES",Cinemonde
-https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Filmelier TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="FILMES/SERIES",FreeTV Crime
-https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",FreeTV Drama
-https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
-http://15.235.50.112:14192/
-
-#EXTINF:-1 group-title="FILMES/SERIES",MovieSphere
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",NetMovies
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
-#EXTINF:-1 group-title="FILMES/SERIES",Old Series
-http://200.194.238.229:8383/live/oldseries/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Reviva TV
-https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Acao
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-
-#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Cine Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-
-#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-
-#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
-#EXTINF:-1 group-title="FILMES/SERIES",Run:Time Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-
-#EXTINF:-1 group-title="FILMES/SERIES",Sony Classics
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Sony Emocoes
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",TNT
-http://conexao-vs.live/TNT/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
-http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Urban Retro
-http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Urban Series
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
-http://79.127.238.228:14647
-
 ###### VARIEDADES ######
 
 #EXTINF:-1 group-title="VARIEDADES",Animal Planet
@@ -211,6 +209,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57d
 
 #EXTINF:-1 group-title="VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Channel
+http://185.246.208.74:14144
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery ID
 http://79.127.238.228:14379
@@ -256,3 +257,20 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",ViVA
 http://conexao-vs.live/VIVA/index.m3u8
+
+###### RELIGIOSOS ######
+
+#EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
+https://cdn2.easy.tv.br/redevida/index.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Imaculada
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",TV Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
