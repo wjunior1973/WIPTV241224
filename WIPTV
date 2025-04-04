@@ -1,13 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,40 Graus TV
+https://acesso.ecast.site:3125/stream/play.m3u8
+
 #EXTINF:-1,A Grande Familia 24H
 http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
-
-#EXTINF:-1,Animal Planet
-http://79.127.238.228:14386
 
 #EXTINF:-1,AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
@@ -24,6 +24,9 @@ http://15.235.11.7:14075
 #EXTINF:-1,Cancao Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
 
+#EXTINF:-1,Cartoon Network
+http://179.124.14.153:8080/13/mpegts
+
 #EXTINF:-1,Caze TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
@@ -32,6 +35,9 @@ http://24hrs.homelinux.com:8080/24H-chapolin1/index.m3u8
 
 #EXTINF:-1,Chaves 24H
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+
+#EXTINF:-1,Cinemax
+http://179.124.14.153:8080/15/mpegts
 
 #EXTINF:-1,Cinemonde
 https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
@@ -46,13 +52,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57d
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
 #EXTINF:-1,Discovery Channel
-http://185.246.208.74:14144
+http://179.124.14.153:8080/10/mpegts
 
-#EXTINF:-1,Discovery ID
-http://79.127.238.228:14379
+#EXTINF:-1,Discovery Kids
+http://179.124.14.153:8080/12/mpegts
 
 #EXTINF:-1,Discovery Turbo
-http://79.127.238.228:14367
+http://179.124.14.153:8080/11/mpegts
 
 #EXTINF:-1,Discovery World
 http://15.235.50.112:14112/
@@ -90,11 +96,17 @@ http://79.127.238.228:14093
 #EXTINF:-1,GNT
 http://79.127.238.228:14402
 
+#EXTINF:-1,Hallo! Brasil
+https://cdn-1.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Hallo! Classic
+https://cdn-1.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Hallo! Movies
+https://cdn-1.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Hallo! Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-#EXTINF:-1,HBO Family
-http://15.235.50.112:14192/
 
 #EXTINF:-1,HTO Filmes
 https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
@@ -195,6 +207,12 @@ http://24hrs.homelinux.com:8080/24H-standup/video.m3u8
 #EXTINF:-1,Tastemade!
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 
+#EXTINF:-1,Telecine Action
+http://179.124.14.153:8080/17/mpegts
+
+#EXTINF:-1,Telecine Pipoca
+http://179.124.14.153:8080/16/mpegts
+
 #EXTINF:-1,Telecine Premium
 http://179.124.14.153:8080/18/mpegts
 
@@ -248,3 +266,6 @@ http://conexao-vs.live/VIVA/index.m3u8
 
 #EXTINF:-1,Warner Channel
 http://79.127.238.228:14647
+
+#EXTINF:-1,WisePlay TV
+https://acesso.ecast.site:3142/hybrid/play.m3u8
